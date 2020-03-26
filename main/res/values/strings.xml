@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidDemoApp</string>
+    <string name="edit_message">Enter a message...</string>
+    <string name="button_send">Send</string>
+    <string name="fontSize1">8px</string>
+    <string name="fontSize2">16px</string>
+    <string name="fontSize3">24px</string>
+    <string-array name="font_families">
+        <item>0.01</item>
+        <item>0.02</item>
+        <item>0.03</item>
+        <item>0.04</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.2</item>
+        <item>0.4</item>
+    </string-array>
+</resources>
